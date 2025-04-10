@@ -1,2 +1,2 @@
-# LocalStore
-Ejercicio1 de Local Store, index y welcome
+# LocalStorage
+Ejercicio1 de Local Storage, index y welcome
